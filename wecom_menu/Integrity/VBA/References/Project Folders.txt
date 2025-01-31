@@ -1,0 +1,35 @@
+{{FOLDERS}}
+<<pn>> <<pt>>.dwg
+<<pn>> CONSTRUCTION DRAWINGS\
+	<<pn>> INDIVIDUAL DRAWINGS\
+INFO\
+	FILES\
+	HANDOFF\
+	MISC\
+	Old DWG VERSIONS\
+	POWER AND PLATS\
+	REFERENCES\
+	RECORDS\
+	SITE VISITS\
+	VHLE\
+MR\
+PERMITS\
+
+{{FILES}}
+MISC	blank hle.xlsm
+VHLE	Blank COVER SHEET.docx
+VHLE	Blank PO Request.xlsx
+VHLE	Blank VHLE.xlsx
+<<pn>> CONSTRUCTION DRAWINGS	<<pn>> FIBER COUNT SHEET.xlsx
+<<pn>> CONSTRUCTION DRAWINGS	<<pn>> SPLICING SHEET.xlsx
+<<pn>> CONSTRUCTION DRAWINGS	<<pn>> REEL SHEET.xlsx
+
+{{NOTES}}
+Files folder can contain MCL, SOW, TAB files, etc
+	<<pn>> FIBER COUNT SHEET.xlsx
+	<<pn>> SPLICING SHEET.xlsx
+	<<pn>> REEL SHEET.xlsx
+		blank hle.xlsm
+		Blank COVER SHEET.docx
+		Blank PO Request.xlsx
+		Blank VHLE.xlsx

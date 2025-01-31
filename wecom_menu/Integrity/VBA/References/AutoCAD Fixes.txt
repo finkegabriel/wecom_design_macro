@@ -1,0 +1,3 @@
+If you enter 3DORBIT by mistake, change the following to get back to 2D:
+	Type "UCS". Change it to World.
+	Type "PLAN". Change it to World.
